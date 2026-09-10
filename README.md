@@ -3,7 +3,7 @@
 A single‑file Markdown resume that uses YAML front‑matter and is rendered as a clean, responsive web page via GitHub Pages (Jekyll).  
 The repo contains:
 
-- `resume.md` – the full Markdown resume with front‑matter
+- `docs/resume.md` – the full Markdown resume with front‑matter
 - `_config.yml` – Jekyll configuration for Pages
 - `_layouts/default.html` (optional) – minimal layout for rendering
 
