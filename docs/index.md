@@ -6,4 +6,4 @@ title: "Gregory Schilsson – Resume"
 # Gregory Schilsson – Resume
 
 <!-- Include the resume content -->
-{% include resume.md %}
+{% include_relative resume.md %}
