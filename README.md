@@ -1,4 +1,4 @@
-# Greg Schilsson – Resume
+# Gregory Schilsson – Resume
 
 A single‑file Markdown resume that uses YAML front‑matter and is rendered as a clean, responsive web page via GitHub Pages (Jekyll).  
 The repo contains:
