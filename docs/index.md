@@ -1,5 +1,7 @@
 ---
 title: "Gregory P. Schilsson"
+layout: default            # Jekyll default layout – change if you use a custom one
+permalink: /       # optional – sets the URL path on GitHub Pages
 location: "Montgomery County, MD, USA"
 phone: "+1 (508) 410 2489"
 email: "gregory@mattersofgrey.net"
@@ -61,8 +63,6 @@ education:
   - degree: BA, Computer Science
     institution: Clark University
     year: 1999
-layout: default            # Jekyll default layout – change if you use a custom one
-permalink: /resume/       # optional – sets the URL path on GitHub Pages
 ---
 
 # Gregory P. Schilsson
