@@ -2,7 +2,7 @@
 title: "Gregory P. Schilsson"
 location: "Montgomery County, MD, USA"
 phone: "+1 (508) 410 2489"
-email: "gregory@mattersofgrey.net"          # optional – add if you want it in the front‑matter
+email: "gregory@mattersofgrey.net"
 summary: |
   Technically‑grounded leader with over 25 years of experience, specializing in technology evaluation, AI‑risk mitigation, and the deployment of emerging tech. Expert at translating complex technical prototypes into actionable corporate guardrails and scorecards. Skilled at leading cross‑functional teams to identify, evaluate, and adopt new technologies that improve operational efficiency and organizational security.
 skills:
