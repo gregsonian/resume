@@ -1,0 +1,14 @@
+# Jekyll build output
+_site/
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# Optional: node_modules if you use Jekyll plugins
+node_modules/
+
+# Python virtual environments (if any)
+venv/
+env/
